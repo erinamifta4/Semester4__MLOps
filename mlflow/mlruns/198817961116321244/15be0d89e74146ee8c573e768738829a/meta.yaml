@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adyan/SDT/mlflow/mlruns/198817961116321244/15be0d89e74146ee8c573e768738829a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '198817961116321244'
+lifecycle_stage: active
+run_id: 15be0d89e74146ee8c573e768738829a
+run_name: Random Forest Regressor
+run_uuid: 15be0d89e74146ee8c573e768738829a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685603913532
+status: 1
+tags: []
+user_id: adyan

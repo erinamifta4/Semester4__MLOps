@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/30cf1c235bba486fb1764f9a05c7a3e4/artifacts
+deleted_time: 1713187684945
+end_time: 1713187393562
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: 30cf1c235bba486fb1764f9a05c7a3e4
+run_name: adventurous-elk-404
+run_uuid: 30cf1c235bba486fb1764f9a05c7a3e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187383750
+status: 3
+tags: []
+user_id: USER

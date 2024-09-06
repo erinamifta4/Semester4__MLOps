@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/e0b7b8fbea0c4292b814e2350e32423a/artifacts
+deleted_time: 1713187684881
+end_time: 1713187491654
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: e0b7b8fbea0c4292b814e2350e32423a
+run_name: clean-rat-589
+run_uuid: e0b7b8fbea0c4292b814e2350e32423a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187477821
+status: 3
+tags: []
+user_id: USER

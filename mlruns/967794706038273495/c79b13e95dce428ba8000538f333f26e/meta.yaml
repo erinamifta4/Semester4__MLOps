@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/c79b13e95dce428ba8000538f333f26e/artifacts
+deleted_time: 1713187684952
+end_time: 1713187376466
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: c79b13e95dce428ba8000538f333f26e
+run_name: honorable-smelt-423
+run_uuid: c79b13e95dce428ba8000538f333f26e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187363370
+status: 3
+tags: []
+user_id: USER

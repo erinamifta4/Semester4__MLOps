@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/9847d0b54130461090197523c5703707/artifacts
+deleted_time: 1713161553426
+end_time: 1713161174726
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: 9847d0b54130461090197523c5703707
+run_name: nimble-zebra-96
+run_uuid: 9847d0b54130461090197523c5703707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713161084664
+status: 3
+tags: []
+user_id: USER

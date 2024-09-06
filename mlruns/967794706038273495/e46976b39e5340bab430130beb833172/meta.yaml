@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/e46976b39e5340bab430130beb833172/artifacts
+deleted_time: 1713187684913
+end_time: 1713187438552
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: e46976b39e5340bab430130beb833172
+run_name: bald-hare-182
+run_uuid: e46976b39e5340bab430130beb833172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187429512
+status: 3
+tags: []
+user_id: USER

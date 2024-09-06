@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adyan/SDT/mlflow/mlruns/198817961116321244/011880e2ce3143649d1edc2093ccb2d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '198817961116321244'
+lifecycle_stage: active
+run_id: 011880e2ce3143649d1edc2093ccb2d2
+run_name: Bayesian Ridge
+run_uuid: 011880e2ce3143649d1edc2093ccb2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685625186697
+status: 1
+tags: []
+user_id: adyan

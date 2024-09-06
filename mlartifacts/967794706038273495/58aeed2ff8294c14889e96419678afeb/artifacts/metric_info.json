@@ -1,0 +1,3 @@
+{
+  "GaussianNB_score_unknown_dataset": "GaussianNB.score(X=<DataFrame>, y=<Series>)"
+}

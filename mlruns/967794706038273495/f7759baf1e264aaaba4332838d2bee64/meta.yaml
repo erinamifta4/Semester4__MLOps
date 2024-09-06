@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/f7759baf1e264aaaba4332838d2bee64/artifacts
+deleted_time: 1713161553424
+end_time: 1713161427560
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: f7759baf1e264aaaba4332838d2bee64
+run_name: enchanting-hog-886
+run_uuid: f7759baf1e264aaaba4332838d2bee64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713161393004
+status: 3
+tags: []
+user_id: USER

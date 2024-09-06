@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/a3b1714d7e764fa0a42f40ffde884df7/artifacts
+deleted_time: 1713187684885
+end_time: 1713187448567
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: a3b1714d7e764fa0a42f40ffde884df7
+run_name: receptive-whale-808
+run_uuid: a3b1714d7e764fa0a42f40ffde884df7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187439847
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/fb7bbf860bdc4a6bb74f7ff6dbd1954b/artifacts
+deleted_time: 1713187684903
+end_time: 1713187419234
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: fb7bbf860bdc4a6bb74f7ff6dbd1954b
+run_name: thundering-finch-831
+run_uuid: fb7bbf860bdc4a6bb74f7ff6dbd1954b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713187419017
+status: 3
+tags: []
+user_id: USER

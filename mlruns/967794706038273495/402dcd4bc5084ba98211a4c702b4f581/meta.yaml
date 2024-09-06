@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/967794706038273495/402dcd4bc5084ba98211a4c702b4f581/artifacts
+deleted_time: 1713161254267
+end_time: 1713161074013
+entry_point_name: ''
+experiment_id: '967794706038273495'
+lifecycle_stage: deleted
+run_id: 402dcd4bc5084ba98211a4c702b4f581
+run_name: aged-bird-947
+run_uuid: 402dcd4bc5084ba98211a4c702b4f581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713160801742
+status: 3
+tags: []
+user_id: USER

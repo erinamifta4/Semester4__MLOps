@@ -1,0 +1,22 @@
+digest: 715a71f3
+name: dataset
+profile: '{"num_rows": 150, "num_elements": 3300}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age", "required": true},
+  {"type": "double", "name": "sex", "required": true}, {"type": "double", "name":
+  "cp_3.0", "required": true}, {"type": "double", "name": "cp_2.0", "required": true},
+  {"type": "double", "name": "cp_0.0", "required": true}, {"type": "double", "name":
+  "cp_1.0", "required": true}, {"type": "double", "name": "trestbps", "required":
+  true}, {"type": "double", "name": "chol", "required": true}, {"type": "double",
+  "name": "fbs", "required": true}, {"type": "double", "name": "restecg_0.0", "required":
+  true}, {"type": "double", "name": "restecg_2.0", "required": true}, {"type": "double",
+  "name": "restecg_1.0", "required": true}, {"type": "double", "name": "thalach",
+  "required": true}, {"type": "double", "name": "exang", "required": true}, {"type":
+  "double", "name": "oldpeak", "required": true}, {"type": "double", "name": "slope_1.0",
+  "required": true}, {"type": "double", "name": "slope_0.0", "required": true}, {"type":
+  "double", "name": "slope_2.0", "required": true}, {"type": "double", "name": "ca",
+  "required": true}, {"type": "double", "name": "thal_0.0", "required": true}, {"type":
+  "double", "name": "thal_2.0", "required": true}, {"type": "double", "name": "thal_1.0",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "USER", "mlflow.source.name": "C:\\Users\\USER\\AppData\\Roaming\\Python\\Python311\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

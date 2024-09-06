@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cb0fafc105d04d7a89eaa8368d21159b/artifacts
+deleted_time: 1713161244630
+end_time: 1713159812451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cb0fafc105d04d7a89eaa8368d21159b
+run_name: honorable-fawn-243
+run_uuid: cb0fafc105d04d7a89eaa8368d21159b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713159726646
+status: 3
+tags: []
+user_id: USER
